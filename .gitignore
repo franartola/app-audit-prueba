@@ -1,0 +1,21 @@
+# Dependencias de Node.js (se instalan con npm install)
+node_modules/
+
+# Archivos de entorno (secrets)
+.env
+.env.local
+.env.development
+.env.production
+
+# Builds y dists (se generan en deploy)
+dist/
+build/
+.next/  # Si usas Next.js
+
+# Logs y temporales
+*.log
+.DS_Store  # Archivo basura de Mac
+
+# IDEs
+.vscode/
+.idea/
