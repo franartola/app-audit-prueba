@@ -189,5 +189,5 @@ Para soporte técnico o preguntas sobre la implementación:
 
 ---
 
-**Desarrollado con ❤️ para mejorar los procesos de auditoría interna**
+**Desarrollado para mejorar los procesos de auditoría interna**
 
